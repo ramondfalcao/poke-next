@@ -1,7 +1,7 @@
 import Link from "next/link";
-import logoPokeBall from "../../../public/images/pokeball.png"
+import logoPokeBall from "../public/images/pokeball.png"
 import Image from "next/image";
-import styles from '../../styles/Navbar.module.css'
+import styles from '../src/styles/Navbar.module.css'
 
 export default function Navbar() {
   return (
